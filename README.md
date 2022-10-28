@@ -1,7 +1,7 @@
 # Steps
 empezar a jugar
 
-...sh
+```sh
 cd proyecto
 python main.py
- ...
+```
